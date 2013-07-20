@@ -1,0 +1,12 @@
+twitter:
+  consumer_key: 'xxx'
+  consumer_secret: 'xxx'
+  oauth_token: 'xxx'
+  oauth_token_secret: 'xxx'
+  auth_method: 'oauth'
+
+iremocon:
+  address: '192.168.0.4'
+  aircon:
+    turn_on: 1300
+    turn_off: 1301
